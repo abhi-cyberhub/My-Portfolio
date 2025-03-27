@@ -1,4 +1,4 @@
-# My-Portfolio
+
 
 A modern, responsive portfolio website designed for a cybersecurity student at BITS. The site showcases skills, projects, and contact information with a sleek, professional design.
 
